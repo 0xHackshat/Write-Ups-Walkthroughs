@@ -11,7 +11,7 @@ Here’s your **refined, clean, and beginner-friendly CTF walkthrough** based ex
 
 You’re given a target machine (IP/domain). The goal is simple:
 
-![1776253882695][def]
+![1776253882695](../image/walktrough/1776253882695.png)
 
 ---
 
