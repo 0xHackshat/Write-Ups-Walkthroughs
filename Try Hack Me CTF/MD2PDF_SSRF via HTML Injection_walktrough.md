@@ -1,15 +1,12 @@
-Here’s your **refined, clean, and beginner-friendly CTF walkthrough** based exactly on the flow you wanted 👇
-(no unnecessary recon theory — straight to practical attack path)
-
 ---
 
-# 🎯 CTF Walkthrough — From Scan to Flag (HTML Injection Exploit)
+# 🎯 Try Hack Me CTF - MD2PDF SSRF via HTML Injection walktrough
 
 ---
 
 # 🧩 Challenge Overview
 
-You’re given a target machine (IP/domain). The goal is simple:
+You’re given a target machine (IP/domain).
 
 ![1776253882695](../image/walktrough/1776253882695.png)
 
