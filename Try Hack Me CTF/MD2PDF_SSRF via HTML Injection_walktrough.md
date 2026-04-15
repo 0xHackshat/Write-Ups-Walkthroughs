@@ -25,7 +25,7 @@ nmap -sC -sV <target-ip>
 
 ---
 
-![1776254029407](image/walktrough/1776254029407.png)
+![1776254029407](../image/walktrough/1776254029407.png)
 
 ---
 
@@ -51,7 +51,7 @@ gobuster dir -u http://<target-ip> -w /usr/share/wordlists/dirb/common.txt
 ```
 
 ---
-![1776254108956](image/walktrough/1776254108956.png)
+![1776254108956](../image/walktrough/1776254108956.png)
 ---
 
 ### 🔍 Interesting Findings:
@@ -70,7 +70,7 @@ http://<target-ip>/admin
 ```
 
 ---
-![1776254169472](image/walktrough/1776254169472.png)
+![1776254169472](../image/walktrough/1776254169472.png)
 ---
 
 ### 🔍 What we observe:
@@ -101,7 +101,7 @@ Back to the main page — we discover:
 ---
 
 ### 🖼️ Add this image:
-![1776254394037](image/walktrough/1776254394037.png)
+![1776254394037](../image/walktrough/1776254394037.png)
 ---
 
 ### 🧪 Try simple inputs:
@@ -127,7 +127,7 @@ exiftool file.pdf
 ```
 
 ---
-![1776254504217](image/walktrough/1776254504217.png)
+![1776254504217](../image/walktrough/1776254504217.png)
 ---
 
 ### 🔍 What we learn:
@@ -174,7 +174,7 @@ Try injecting simple HTML:
 ```
 
 ---
-![1776254578124](image/walktrough/1776254578124.png)
+![1776254578124](../image/walktrough/1776254578124.png)
 ---
 
 ✅ If the PDF shows **HACKED in big text**
@@ -222,7 +222,7 @@ OR
 ```
 
 ---
-![1776254665030](image/walktrough/1776254665030.png)
+![1776254665030](../image/walktrough/1776254665030.png)
 ---
 
 # 🏁 Step 9 — Capture the Flag
